@@ -6,7 +6,7 @@
       ```
       git@github.com:LucasSalicano/exercicio-super-logica.git
       ```
-2. Instalar as dependencias
+2. Instalando as dependências
       ```
       composer install
       ```
@@ -20,5 +20,5 @@ Pronto, a sua aplicação irá rodar no endereço http://localhost:8000.
 
 1. Para rodar os testes (Windows)
       ```
-      php .\vendor\bin\phpunit
+      php vendor/bin/phpunit
       ```
