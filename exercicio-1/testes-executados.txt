@@ -1,0 +1,7 @@
+Usuario
+ [x] Nome
+ [x] Nome login
+ [x] Email
+ [x] Erro email invalido
+ [x] Senha
+
