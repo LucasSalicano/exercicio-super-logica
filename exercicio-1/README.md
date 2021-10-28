@@ -8,6 +8,7 @@
       ```
 2. Instalando as dependências
       ```
+      cd exercicio-1
       composer install
       ```
 3. Iniciar o servidor PHP
